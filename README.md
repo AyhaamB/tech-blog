@@ -11,7 +11,7 @@ Website link:
 ![My Image](./images/tech-blog%20screenshot.png)
 
 ## Help
-Any advice for common problems or issues, email me at ayh132@gmail.com
+Any advice for common problems or issues, email me at ayh132@gmail.com.
 
 ## Authors
 Ayhaam Baksh - Github: https://github.com/AyhaamB
